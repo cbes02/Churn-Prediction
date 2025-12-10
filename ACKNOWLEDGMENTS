@@ -1,0 +1,28 @@
+ACKNOWLEDGMENTS
+
+Progetto realizzato da: Sara Rebecca Magarotto (S.R.M.)
+
+Contributi:
+- S.R.M.: Ricerca e download del dataset da Kaggle
+- S.R.M.: Configurazione ambiente di sviluppo (Anaconda, VS Code)
+- S.R.M.: Implementazione e test di tutti gli script Python
+- S.R.M.: Analisi dei risultati e interpretazione del modello
+- S.R.M.: Creazione documentazione e preparazione per l'esame
+
+Strumenti utilizzati:
+- Claude AI (Anthropic): Assistenza per la scrittura del codice e debugging
+- Kaggle: Fonte del dataset "Telco Customer Churn"
+- Python 3.12 con librerie: pandas, scikit-learn, numpy
+- Anaconda Navigator: Gestione ambiente virtuale
+- Visual Studio Code: IDE per lo sviluppo
+- GitHub: Versionamento e hosting del codice
+
+Risorse educative:
+- Corso: Intelligenza Artificiale, Impresa e Società - IULM
+- Dataset originale: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Ringraziamenti speciali:
+- Al docente del corso per le linee guida del progetto
+- Alla community di Kaggle per il dataset pubblico
+
+Data di completamento: Dicembre 2025

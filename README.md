@@ -160,9 +160,12 @@ Il modello addestrato ha raggiunto le seguenti performance sul test set:
 
 Il modello ha identificato le seguenti variabili come i principali predittori del churn:
 
-1. **Tenure** (durata del contratto) - I clienti con contratti brevi hanno maggiore probabilità di abbandonare
-2. **Total Charges** (costi totali) - Correlazione tra spesa complessiva e fedeltà del cliente
-3. **Monthly Charges** (costi mensili) - I clienti con costi mensili elevati sono più inclini al churn
+- **Tenure** – Durata della relazione tra cliente e azienda
+- **MonthlyCharges** – Costo mensile del servizio
+- **TotalCharges** – Spesa cumulativa sostenuta dal cliente nel tempo
+- **Contract** – Tipologia di contratto sottoscritto
+- **PaymentMethod** – Metodo di pagamento utilizzato
+- **TechSupport / OnlineSecurity** – Presenza di servizi di supporto e sicurezza
 
 ### Altri predittori significativi:
 - Tipo di contratto (month-to-month vs annuale)

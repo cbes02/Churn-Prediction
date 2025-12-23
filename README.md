@@ -148,10 +148,10 @@ Il modello addestrato ha raggiunto le seguenti performance sul test set:
 ### Metriche di Performance
 
 - **Accuracy:** 80.4%
-- **Precision (Churn):** 0.67
-- **Recall (Churn):** 0.53
-- **F1-score (Churn):** 0.59
-- **ROC–AUC:** 0.84
+- **Precision (Churn):** 66.6%
+- **Recall (Churn):** 52.7%
+- **F1-score (Churn):** 58.8%
+- **ROC–AUC:** 84%
   
 **Modello**: Random Forest Classifier con 100 alberi decisionali
 **Validation Strategy**: Train-test split (80-20)

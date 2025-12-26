@@ -205,7 +205,12 @@ nel corso di laurea magistrale in **Intelligenza Artificiale, impresa e società
 
 Docente: Prof. Alessandro Bruno
 
-IULM University - A.A. 2025-2026  
+IULM University - A.A. 2025-2026
+
+
+## Streamlit
+
+https://churn-prediction-wptsxwkdgfk44z7cwapyfp.streamlit.app/
 
 
 ## Licenza
